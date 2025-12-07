@@ -1,6 +1,6 @@
 Housing Price Prediction
 
-This repository contains the code and resources to predict housing prices using the Kaggle House Prices Dataset.
+This repository contains the code (.py files) and resources (train.csv) to predict housing prices using the Kaggle House Prices Dataset.
 
 Classic Models:
 
@@ -21,4 +21,5 @@ python model_classic_lasso.py
 
 
 References
+
 
